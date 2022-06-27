@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/MyApplication/app/src/main/res/drawable/header.xml" value="0.2703125" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/drawable/ripple_effect.xml" value="0.2703125" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2536231884057971" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_register.xml" value="0.2536231884057971" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_second.xml" value="0.2536231884057971" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/fragment_base.xml" value="0.2536231884057971" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/fragment_chats.xml" value="0.2536231884057971" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/fragment_settings.xml" value="0.2536231884057971" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/row.xml" value="0.2536231884057971" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/row_second_activity.xml" value="0.2536231884057971" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/menu/settings_action_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14739583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.8" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
